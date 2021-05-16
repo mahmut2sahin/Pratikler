@@ -1,0 +1,16 @@
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csprojAssemblyReference.cache
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\mahmutsahin-code\Desktop\pratikler\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
