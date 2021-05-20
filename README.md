@@ -1,1 +1,1 @@
-Patika.DEV, C# 101 Patikası
+Projects and practices of C# 101 Path, from Patika.DEV
