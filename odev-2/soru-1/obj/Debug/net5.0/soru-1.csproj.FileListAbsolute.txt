@@ -1,0 +1,16 @@
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.exe
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.deps.json
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.runtimeconfig.json
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.runtimeconfig.dev.json
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.dll
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\ref\soru-1.dll
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\bin\Debug\net5.0\soru-1.pdb
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.csprojAssemblyReference.cache
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.AssemblyInfoInputs.cache
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.AssemblyInfo.cs
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.csproj.CoreCompileInputs.cache
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.dll
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\ref\soru-1.dll
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.pdb
+C:\Users\mahmutsahin\Desktop\code\pratikler\odev-2\soru-1\obj\Debug\net5.0\soru-1.genruntimeconfig.cache
